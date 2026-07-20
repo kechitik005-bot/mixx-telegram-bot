@@ -1,0 +1,9 @@
+{
+  "name": "mixx-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for Mixx 50GB referrals",
+  "main": "netlify/functions/bot.js",
+  "dependencies": {
+    "telegraf": "^4.15.3"
+  }
+}
